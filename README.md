@@ -5,4 +5,4 @@
 ``` python getprice.py ```
 ### For generate line graph we use monthlygraph.py and dailygraph.py which generate graph with matplotlib lib
 ``` python dailygraph.py ```
-``` python monthlygraph.py``` 
+``` python monthlygraph.py ``` 
